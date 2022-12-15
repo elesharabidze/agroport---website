@@ -1,0 +1,41 @@
+{
+    "menu[0]": "home",
+    "menu[1]": "about company",
+    "menu[2]": "production and products",
+    "menu[3]": "about almonds",
+    "menu[4]": "contact",
+
+    "location": "location",
+    "webMap": "WEBSITE OVERVIEW",
+    "llcAgroport": "LLC. Agroport",
+    "georgia": "Georgia",
+    "qvaxvreli": "Qvaxvreli",
+
+    "emailHeader": "Contact Us",
+    "receiver": "Receiver",
+    "emailName": "Name*",
+    "emailNameError[0]": "Name is required",
+    "emailNameError[1]": "Name is too long (max: 25 characters)",
+    "email": "Email*",
+    "emailWarning": "Please make sure that email is active and correctly spelled. If necessary we will contact you by email*",
+    "emailError": "Email is required",
+    "emailSubject": "Subject*",
+    "emailSubjectError[0]": "Subject is required",
+    "emailSubjectError[1]": "Subject is too long (max: 35 characters)",
+    "emailContent": "Text*",
+    "emailContentError": "Text is required",
+    "emailSend": "send",
+    "emailSentMessage": "Email Sent Successfully",
+    "emailFailedMessage": "Email wasn't sent. Please try again", 
+
+    "seeMore": "See more",
+    "homePageAboutCompanyText": "The company Agroport was established in 2020 in Georgia. Its founders started by cultivating almond orchards with high yield and excellent taste. Almond cultivation is a very new industry in Georgia. Before Agroport was founded, no almond processing enterprises existed on the market. To fill the void...",
+
+    "aboutCompanyText": "The company Agroport was established in 2020 in Georgia. Its founders started by cultivating almond orchards with high yield and excellent taste. Almond cultivation is a very new industry in Georgia. Before Agroport was founded, no almond processing enterprises existed on the market. To fill the void, we decided to set up an almond harvesting and processing enterprise near the village of Kvakhvreli in Gori district, 70 km from Tbilisi. The enterprise imports, processes, packages, and exports the highest quality almonds grown in Georgia.",
+
+    "productionAndProductsTextRow[0][0]": "We attach great importance to internal production processes and adhere to international standards to ensure all Agroport products meet the highest standards.",
+    "productionAndProductsTextRow[0][1]": "The raw almonds we use are checked for moisture, dried, cleaned, broken, their casings removed, calibrated, and packaged in cartons or vacuum-sealed packets. Calibration is carried out in the following sizes: 20/22, 25/27/30/32.",
+    "productionAndProductsTextRow[1]": "We value the producer and consumer equally. Agroport pays great attention to farmers and suppliers and assure they comply with all land management, processing, and product standards. All products we sell are tested for moisture, aflatoxin, Escherichia coli, and Salmonella to ensure the highest quality. Drying and vacuum-sealing prevent damage to the almonds and ensure the maximum longevity of both in terms of expiration (sell-by-date) and taste. Our quality requirements for raw materials also include ecologically sustainable land management practices in the cultivated area.",
+    "productionAndProductsTextRow[2][0]": "Agroport’s daily productivity ranges from 1000 to 1500 kg of processed almonds, resulting in 300-450 tons per year.",
+    "productionAndProductsTextRow[2][1]": "Social responsibility is important to Agroport. Our team strives to recruit as many local residents as possible from the surrounding villages, both in the factory and in the orchards."
+}

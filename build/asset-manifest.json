@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37c69e9f.chunk.css",
+    "main.js": "/static/js/main.c8025167.chunk.js",
+    "main.js.map": "/static/js/main.c8025167.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.43a46cd1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.43a46cd1.js.map",
+    "static/js/2.0b614cbb.chunk.js": "/static/js/2.0b614cbb.chunk.js",
+    "static/js/2.0b614cbb.chunk.js.map": "/static/js/2.0b614cbb.chunk.js.map",
+    "static/js/3.c49024c9.chunk.js": "/static/js/3.c49024c9.chunk.js",
+    "static/js/3.c49024c9.chunk.js.map": "/static/js/3.c49024c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.37c69e9f.chunk.css.map": "/static/css/main.37c69e9f.chunk.css.map",
+    "static/js/2.0b614cbb.chunk.js.LICENSE.txt": "/static/js/2.0b614cbb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bpg_nino_mtavruli_normal.a6376f58.ttf",
+    "static/media/almond1.144fc732.jpg": "/static/media/almond1.144fc732.jpg",
+    "static/media/almond2.653d4225.jpg": "/static/media/almond2.653d4225.jpg",
+    "static/media/almond3.3df403bc.jpg": "/static/media/almond3.3df403bc.jpg",
+    "static/media/almond4.dee1614f.jpg": "/static/media/almond4.dee1614f.jpg",
+    "static/media/almond5.d02b1866.jpg": "/static/media/almond5.d02b1866.jpg",
+    "static/media/almond6.82364455.jpg": "/static/media/almond6.82364455.jpg",
+    "static/media/facebook.3f0c500d.svg": "/static/media/facebook.3f0c500d.svg",
+    "static/media/goUp.001d48ab.svg": "/static/media/goUp.001d48ab.svg",
+    "static/media/logo.7fc83fc6.png": "/static/media/logo.7fc83fc6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43a46cd1.js",
+    "static/js/2.0b614cbb.chunk.js",
+    "static/css/main.37c69e9f.chunk.css",
+    "static/js/main.c8025167.chunk.js"
+  ]
+}
